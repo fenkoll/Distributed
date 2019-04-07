@@ -1,0 +1,40 @@
+Total time for grep: 7.753966733s
+Total time for grep: 6.943646893s
+Total time for grep: 7.365273651s
+Total time for grep: 10.508237329s
+Total time for grep: 7.78795487s
+Greptime for " 12 ": 0 7.753966733s
+Greptime for " 12 ": 1 6.943646893s
+Greptime for " 12 ": 2 7.365273651s
+Greptime for " 12 ": 3 10.508237329s
+Greptime for " 12 ": 4 7.78795487s
+Total time for grep: 1.949449663s
+Total time for grep: 1.976079064s
+Total time for grep: 1.869056961s
+Total time for grep: 2.295213158s
+Total time for grep: 2.144639984s
+Greptime for " 9.\...... ": 0 1.949449663s
+Greptime for " 9.\...... ": 1 1.976079064s
+Greptime for " 9.\...... ": 2 1.869056961s
+Greptime for " 9.\...... ": 3 2.295213158s
+Greptime for " 9.\...... ": 4 2.144639984s
+Total time for grep: 226.631506ms
+Total time for grep: 216.806312ms
+Total time for grep: 217.874352ms
+Total time for grep: 420.055852ms
+Total time for grep: 216.61372ms
+Greptime for " 234829 ": 0 226.631506ms
+Greptime for " 234829 ": 1 216.806312ms
+Greptime for " 234829 ": 2 217.874352ms
+Greptime for " 234829 ": 3 420.055852ms
+Greptime for " 234829 ": 4 216.61372ms
+Total time for grep: 1.93860696s
+Total time for grep: 1.939368193s
+Total time for grep: 1.988882533s
+Total time for grep: 2.148776592s
+Total time for grep: 3.096296678s
+Greptime for " 1800. ": 0 1.93860696s
+Greptime for " 1800. ": 1 1.939368193s
+Greptime for " 1800. ": 2 1.988882533s
+Greptime for " 1800. ": 3 2.148776592s
+Greptime for " 1800. ": 4 3.096296678s
